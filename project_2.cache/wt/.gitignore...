@@ -1,0 +1,10 @@
+# Xilinx Vivado temporary and generated folders
+*.cache/
+*.sim/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.gen/
+*.jou
+*.log
+*.str
